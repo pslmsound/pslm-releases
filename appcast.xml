@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PSLM auto-update feed (Sparkle appcast). Host this at the SUFeedURL baked into the app's
+     Info.plist (https://pslmsound.github.io/pslm-releases/appcast.xml by default).
+     Each <item> is one release. The `edSignature` + `length` on the <enclosure> are produced by
+     Sparkle's sign_update tool over the NOTARIZED .dmg (see release.sh). Newer versions go at the
+     TOP. sparkle:version = build number (CFBundleVersion), sparkle:shortVersionString = display. -->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>PSLM</title>
+    <link>https://pslmsound.github.io/pslm-releases/appcast.xml</link>
+    <description>PSLM mastering app updates</description>
+    <language>en</language>
+
+    <item>
+      <title>PSLM 0.1.0</title>
+      <pubDate>Fri, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>0.1.0</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>PSLM 0.1.0</h3>
+        <ul><li>First auto-updatable build.</li></ul>
+      ]]></description>
+      <!-- url = public download of the NOTARIZED dmg (GitHub Release asset). length + edSignature
+           are filled in by release.sh (sign_update). -->
+      <enclosure url="https://github.com/pslmsound/pslm-releases/releases/download/v0.1.0/PSLM-0.1.0.dmg"
+                 sparkle:version="0.1.0"
+                 sparkle:shortVersionString="0.1.0"
+                 length="0"
+                 type="application/octet-stream"
+                 sparkle:edSignature="REPLACED_BY_sign_update"/>
+    </item>
+
+  </channel>
+</rss>
