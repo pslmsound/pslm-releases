@@ -27,9 +27,9 @@
       <enclosure url="https://github.com/pslmsound/pslm-releases/releases/download/v0.1.0/PSLM-0.1.0.dmg"
                  sparkle:version="0.1.0"
                  sparkle:shortVersionString="0.1.0"
-                 length="0"
+                 length="11991725"
                  type="application/octet-stream"
-                 sparkle:edSignature="REPLACED_BY_sign_update"/>
+                 sparkle:edSignature="2Sy+ZGzPc7/Hs+II6MjIk896jWDlzoEPBQEs4+uWLCiSTTljCb9Q1uxCkp6xD9fplgMz1C/7hBkcQi/Eu6Q6Cg=="/>
     </item>
 
   </channel>
