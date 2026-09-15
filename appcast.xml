@@ -13,6 +13,28 @@
     <language>en</language>
 
     <item>
+      <title>PSLM 0.1.1</title>
+      <pubDate>Tue, 15 Sep 2026 09:31:22 +0000</pubDate>
+      <sparkle:version>0.1.1</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>PSLM 0.1.1</h3>
+        <ul>
+          <li>Lower peak memory in the full mastering chain — more headroom on long / heavy tracks.</li>
+          <li>Audio-thread safety guard in the A/B preview.</li>
+          <li>Internal fixes. No change to the mastering sound.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/pslmsound/pslm-releases/releases/download/v0.1.1/PSLM-0.1.1.dmg"
+                 sparkle:version="0.1.1"
+                 sparkle:shortVersionString="0.1.1"
+                 length="11919838"
+                 type="application/octet-stream"
+                 sparkle:edSignature="56Mh67aUZHepq2jNQ1rRYScb/f6yuAH+/w+qx6X0d0Rt04Tln4merr/PoiNJUXL+IPAOurAR2ulGFAqPtORpAw=="/>
+    </item>
+
+    <item>
       <title>PSLM 0.1.0</title>
       <pubDate>Fri, 08 Aug 2026 00:00:00 +0000</pubDate>
       <sparkle:version>0.1.0</sparkle:version>
