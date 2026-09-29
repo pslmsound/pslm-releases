@@ -13,6 +13,28 @@
     <language>en</language>
 
     <item>
+      <title>PSLM 0.1.2</title>
+      <pubDate>Tue, 29 Sep 2026 18:43:07 +0000</pubDate>
+      <sparkle:version>0.1.2</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>PSLM 0.1.2</h3>
+        <ul>
+          <li>Auto de-harsh — when a loud master introduces harsh vocal highs, PSLM now measures it and gently tames them automatically. Clean/bright masters are left untouched.</li>
+          <li>Cleaner in-app A/B monitoring — the compare plays at the file's native sample rate, so what you hear matches the exported file.</li>
+          <li>Master Check quality pass refinements.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/pslmsound/pslm-releases/releases/download/v0.1.2/PSLM-0.1.2.dmg"
+                 sparkle:version="0.1.2"
+                 sparkle:shortVersionString="0.1.2"
+                 length="11658371"
+                 type="application/octet-stream"
+                 sparkle:edSignature="NUwFwW4O0QhTRA+Azth3VAzaCr5ybvV28vuCTEx8JtZvSJrNJipBNqlH36TN1wxGsnh0eYn+OBjeTCj+re7yBQ=="/>
+    </item>
+
+    <item>
       <title>PSLM 0.1.1</title>
       <pubDate>Tue, 15 Sep 2026 09:31:22 +0000</pubDate>
       <sparkle:version>0.1.1</sparkle:version>
