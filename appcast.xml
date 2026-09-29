@@ -13,6 +13,27 @@
     <language>en</language>
 
     <item>
+      <title>PSLM 0.1.3</title>
+      <pubDate>Tue, 29 Sep 2026 20:25:01 +0000</pubDate>
+      <sparkle:version>0.1.3</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>PSLM 0.1.3</h3>
+        <p>Maintenance release. No change to the mastering sound, the engine, or any feature.</p>
+        <ul>
+          <li>Corrected the bundled third-party license notices — full license texts for KissFFT, sys/queue.h and Sparkle, and a proper LGPL written offer for LAME.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/pslmsound/pslm-releases/releases/download/v0.1.3/PSLM-0.1.3.dmg"
+                 sparkle:version="0.1.3"
+                 sparkle:shortVersionString="0.1.3"
+                 length="11573105"
+                 type="application/octet-stream"
+                 sparkle:edSignature="WJyetNbuGLqXiqrNgpJEzgtLKb6NB2/AtTSQz7gwifr4xpGqkxOGXpMlF59Fc2wbqzvxPBN91tiDa4DebxJsDA=="/>
+    </item>
+
+    <item>
       <title>PSLM 0.1.2</title>
       <pubDate>Tue, 29 Sep 2026 18:43:07 +0000</pubDate>
       <sparkle:version>0.1.2</sparkle:version>
