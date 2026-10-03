@@ -13,6 +13,31 @@
     <language>en</language>
 
     <item>
+      <title>PSLM 0.1.4</title>
+      <pubDate>Sat, 03 Oct 2026 01:53:50 +0000</pubDate>
+      <sparkle:version>0.1.4</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>PSLM 0.1.4</h3>
+        <p>Beta build. No change to the mastering sound &mdash; the engine is untouched.</p>
+        <p><b>This is a time-limited beta: mastering and export stop on 22 October 2026.</b> The app still opens after that and nothing you have made is affected.</p>
+        <ul>
+          <li>Export now tells you when it cannot work &mdash; MP3 and FLAC need encoders that are not on every Mac, so PSLM checks up front and names what is missing instead of blaming the output folder. Deliverables that fail are reported, not silently skipped.</li>
+          <li>Tools &rsaquo; Master Check works again; it was greyed out even after a successful master.</li>
+          <li>Send feedback, and report a crash. PSLM sends nothing on its own &mdash; it opens an email you read and send yourself, and your audio is never included.</li>
+          <li>Check for Updates is now a button in Settings. Dialogs restyled to match the app; Settings shows the correct version.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/pslmsound/pslm-releases/releases/download/v0.1.4/PSLM-0.1.4.dmg"
+                 sparkle:version="0.1.4"
+                 sparkle:shortVersionString="0.1.4"
+                 length="11623837"
+                 type="application/octet-stream"
+                 sparkle:edSignature="P4W9xpGIhq6IT37qahJrgUKEwBDCKH4GamEYpEr26z7hmF1XeYL15pj1jcKdvGMYnvC4l2Uz/qJA5J479R+JBQ=="/>
+    </item>
+
+    <item>
       <title>PSLM 0.1.3</title>
       <pubDate>Tue, 29 Sep 2026 20:25:01 +0000</pubDate>
       <sparkle:version>0.1.3</sparkle:version>
