@@ -13,6 +13,26 @@
     <language>en</language>
 
     <item>
+      <title>PSLM 0.1.7</title>
+      <pubDate>Sun, 04 Oct 2026 03:33:22 +0000</pubDate>
+      <sparkle:version>0.1.7</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>PSLM 0.1.7</h3>
+        <p>Housekeeping release. No change to the engine or to how anything sounds.</p>
+        <ul>
+          <li>The Privacy Policy and Third-Party Licenses links in Settings now open pslmsound.com instead of a GitHub page.</li>
+          <li>The screen shown when the beta ends now links to pslmsound.com rather than a GitHub release listing.</li>
+        </ul>
+        <p>Downloads now come from pslmsound.com too, so nothing sends you to GitHub any more.</p>
+        <p><b>The beta runs to 31 December 2026.</b> The app still opens after that and nothing you have made is affected.</p>
+      ]]></description>
+      <enclosure url="https://github.com/pslmsound/pslm-releases/releases/download/v0.1.7/PSLM-0.1.7.dmg"
+                 type="application/octet-stream" sparkle:edSignature="fjnrMHLsys/UZUNbp4oiZtQVRjH0WSqOe0oLIrQN1DVSUziewaRhPbe2jtWHep2bdDcjb1ZQfr/cVD6+9ruvDA==" length="12015933"/>
+    </item>
+
+    <item>
       <title>PSLM 0.1.6</title>
       <pubDate>Sun, 04 Oct 2026 02:48:14 +0000</pubDate>
       <sparkle:version>0.1.6</sparkle:version>
