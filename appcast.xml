@@ -13,6 +13,21 @@
     <language>en</language>
 
     <item>
+      <title>PSLM 0.1.6</title>
+      <pubDate>Sun, 04 Oct 2026 02:48:14 +0000</pubDate>
+      <sparkle:version>0.1.6</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>PSLM 0.1.6</h3>
+        <p><b>The beta now runs to 31 December 2026, instead of 22 October.</b> That is the only change &mdash; same build as 0.1.5 otherwise, no change to the engine or to how anything sounds.</p>
+        <p>If you are on 0.1.4 or 0.1.5, updating is what moves your copy past the old 22 October cut-off.</p>
+      ]]></description>
+      <enclosure url="https://github.com/pslmsound/pslm-releases/releases/download/v0.1.6/PSLM-0.1.6.dmg"
+                 type="application/octet-stream" sparkle:edSignature="DxgDiWV37LcNExXzmx7CXsfYCIHqaTksJr7G0yEBvdIBBFGIkZVvVO+DQ+iQMy+t2unuDc8ZrGJtcfyVeMMqBw==" length="12015883"/>
+    </item>
+
+    <item>
       <title>PSLM 0.1.5</title>
       <pubDate>Sun, 04 Oct 2026 02:35:36 +0000</pubDate>
       <sparkle:version>0.1.5</sparkle:version>
