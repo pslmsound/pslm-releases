@@ -13,6 +13,26 @@
     <language>en</language>
 
     <item>
+      <title>PSLM 0.1.5</title>
+      <pubDate>Sun, 04 Oct 2026 02:35:36 +0000</pubDate>
+      <sparkle:version>0.1.5</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>PSLM 0.1.5</h3>
+        <p>Beta build. <b>This one changes how the High tier sounds.</b></p>
+        <p><b>High now masters to about &minus;9 LUFS instead of &minus;8.5.</b> &minus;9 is the level PSLM was tuned to by ear; &minus;8.5 had slipped in by accident and was pushing harder than the material usually takes. Expect High to come out very slightly quieter and a little cleaner up top. Low, Mid and Smart are unchanged, and nothing else in the engine changed.</p>
+        <p><b>This is still a time-limited beta: mastering and export stop on 22 October 2026.</b> The app still opens after that and nothing you have made is affected.</p>
+        <ul>
+          <li>The in-app FAQ was wrong about two things: it said High targets &minus;9.5, which no build has ever done, and it listed exports as &ldquo;WAV and MP3 320 today&rdquo; when FLAC and AAC have shipped for a while. Both corrected.</li>
+          <li>Third-party licence notice and the About line now read &ldquo;The JC Guthrie Group LLC&rdquo;.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/pslmsound/pslm-releases/releases/download/v0.1.5/PSLM-0.1.5.dmg"
+                 type="application/octet-stream" sparkle:edSignature="6lhbcEtyeFvx9WjxwORC5on2UJtkb+NuqjI6e5X2OYwxmcHa2ibUix8+3+PypoBmQ4auKr/XkUf0G8T0uyWHBg==" length="12023655"/>
+    </item>
+
+    <item>
       <title>PSLM 0.1.4</title>
       <pubDate>Sat, 03 Oct 2026 01:53:50 +0000</pubDate>
       <sparkle:version>0.1.4</sparkle:version>
