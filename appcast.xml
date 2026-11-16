@@ -13,6 +13,29 @@
     <language>en</language>
 
     <item>
+      <title>PSLM 0.9.9</title>
+      <pubDate>Mon, 16 Nov 2026 01:58:25 +0000</pubDate>
+      <sparkle:version>0.9.9</sparkle:version>
+      <sparkle:shortVersionString>0.9.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>PSLM 0.9.9 beta</h3>
+        <p>The last beta before 1.0.</p>
+        <ul>
+          <li>Listen, Master Check, Album preview, Command Center, Reference Library and Settings are redesigned to match the Studio, with larger, easier-to-read numbers.</li>
+          <li>Command Center has its own Play master button, live loudness and correlation readouts, and a smoother spectrum.</li>
+          <li>Drag the Studio waveform to move through a track while it plays.</li>
+          <li>Fixes a crash when quitting PSLM.</li>
+          <li>App text uses the Mac's own system font, and the PSLM logo is drawn correctly.</li>
+          <li>Masters on High use much less memory.</li>
+        </ul>
+        <p>Your settings and masters are kept. <b>The beta still runs to 31 December 2026.</b></p>
+      ]]></description>
+      <enclosure url="https://github.com/pslmsound/pslm-releases/releases/download/v0.9.9/PSLM-0.9.9.dmg"
+                 type="application/octet-stream" sparkle:edSignature="H5/KYKaBoKHEazeMp9spFEZzX39O4hQX4QAlvkoNpOrgIiA8hjcGwCyMbt6awJNutU3WP8NNLOG3+lLDHJkcCw==" length="11749319"/>
+    </item>
+
+    <item>
       <title>PSLM 0.1.7</title>
       <pubDate>Sun, 04 Oct 2026 03:33:22 +0000</pubDate>
       <sparkle:version>0.1.7</sparkle:version>
