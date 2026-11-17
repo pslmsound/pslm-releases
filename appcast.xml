@@ -13,6 +13,25 @@
     <language>en</language>
 
     <item>
+      <title>PSLM 1.0.0</title>
+      <pubDate>Mon, 16 Nov 2026 23:55:00 +0000</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>PSLM 1.0</h3>
+        <p>The first full release.</p>
+        <ul>
+          <li>If you've been using the PSLM beta on this Mac, it stays free until 31 December 2026, as promised. Settings &gt; License shows the date.</li>
+          <li>After that, buy PSLM once ($124.99, two Macs, includes 2.0) or monthly ($17.99, two Macs) at pslmsound.com/buy, and paste your license key under Settings &gt; License.</li>
+          <li>Everything from 0.9.9: redesigned panels, Command Center playback, drag-to-seek on the waveform and the quit-crash fix.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/pslmsound/pslm-releases/releases/download/v1.0.0/PSLM-1.0.0.dmg"
+                 type="application/octet-stream" sparkle:edSignature="qa4ZtbM4rGuFUl2HcueNrXmZbUiyEVoL7JoSNNEJGll34Y9fyAAc5lzFw2OlWlVJTK+elRgQ6R03+OA8ZmONDA==" length="11736739"/>
+    </item>
+
+    <item>
       <title>PSLM 0.9.9</title>
       <pubDate>Mon, 16 Nov 2026 01:58:25 +0000</pubDate>
       <sparkle:version>0.9.9</sparkle:version>
